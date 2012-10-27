@@ -1,23 +1,24 @@
-.TH "" "778-235-0342" "2011-October" "Resume" "Shaun Jackman <sjackman@gmail.com>"
+.TH "" "778-235-0342" "2012-October" "Resume" "Shaun Jackman <sjackman@gmail.com>"
 
 .SH \s+9Shaun Jackman
 BASc (First Class Hons.) Computer Eng.
 
 .SH Background
-I am a first class honours graduate in computer engineering, a
-computer and electronics enthusiast, an open-source software advocate,
-an avid traveller, a climber, a singer and an experimental amateur
-chef. I have ten years of industry experience developing software in
-C++, C and assembly, including four years developing high-performance
-distributed and parallel algorithms for genome sequence assembly, and
-six years developing embedded and real-time systems on compact
-hardware. I have extensive experience developing portable software for
-POSIX systems such as GNU/Linux. When developing performance-critical
-software, I understand the hardware from the transistor up.
+I am a first class honours graduate in computer engineering, a masters
+student in bioinformatics, a computer and electronics enthusiast, an
+open-source software advocate, an avid traveller, a climber, a singer
+and an experimental amateur chef. I have ten years of industry
+experience developing software in C++, C and assembly, including four
+years developing high-performance distributed and parallel algorithms
+for genome sequence assembly, and six years developing embedded and
+real-time control systems. I have extensive experience developing
+portable software for POSIX systems such as GNU/Linux and Mac OS X.
+When developing performance-critical software, I understand the
+hardware from the transistor up.
 
 .SH Work Experience
 .
-.SS 2008\[en]present \[em] Computational biologist
+.SS 2008\[en]2012 \[em] Computational biologist
 .B BC Cancer Agency Genome Sciences Centre
 .br
 Developed the genome sequence assembly software package, ABySS. This
@@ -28,9 +29,9 @@ assemble a human genome using short-read sequencing technology.
 .SS 2004\[en]2007 \[em] Embedded firmware developer
 .B Pathway Connectivity Inc.
 .br
-Developed the firmware for Pathway's newest product line of small, low
-cost lighting control devices. This DIN-rail-mounted product line,
-which used Atmel's AVR microcontroller, converts between a variety of
+Developed the firmware for Pathway's product line of small, low-cost
+lighting control devices. These DIN-rail-mounted devices, which use
+Atmel's AVR microcontroller, convert between a variety of
 lighting-control protocols including DMX512, analog, PWM and contact
 closure. Modernized the lighting control industry by developing a
 novel piece of equipment, the Pathport, to adapt legacy lighting
@@ -85,40 +86,38 @@ JT Simpson, K Wong, \fBSD Jackman\fR et al.
 
 .SH Education
 .
+.SS 2012\[en]present MSc Bioinformatics, University of British Columbia
+.br
+Scholarship student in bioinformatics.
+.
 .SS 1998\[en]2004 BASc (First Class Hons.) Computer Eng., Simon Fraser University
 .br
-Scholarship student in Computer Engineering. Honours undergraduate
-thesis on the topic of using Ethernet in entertainment
-lighting-control systems. Completed two full years of co-op work
-experience at three companies. GPA 3.85.
+Scholarship student in Computer Engineering. Completed an honours
+undergraduate thesis and two full years of co-op work experience at
+three companies. GPA 3.85.
 
 .SH Knowledge
 .
-.TP 
-.B Programming languages
-C++, C, assembly language, Java, Perl, Python and Matlab
+.SS Bioinformatics
+Techniques for analysis of whole-genome shotgun sequencing and
+RNA-seq, including \fIde novo\fR sequence assembly (ABySS), sequence
+alignment (BWA, gmap, exonerate, BLAT, BLAST), variant calling
+(samtools), visualization and inspection of genomic rearrangements
+(IGV) and analysis of tumour-normal pairs to identify somatic
+mutations
 .
-.TP
-.B Parallel processing
-POSIX threads, OpenMP, MPI
+.SS Programming languages
+C++, C, assembly language, Python, Matlab, Java, Perl and Haskell
 .
-.TP
-.B Operating systems
+.SS Parallel processing
+POSIX threads, OpenMP and MPI
+.
+.SS Operating systems
 Debian, Ubuntu, other GNU/Linux distributions and Mac OS X
-.
-.TP
-.B Network communication protocols
-Intimate knowledge of the TCP/IP protocol stack and Ethernet
-.
-.TP
-.B Embedded hardware platforms
-ARM microprocessors and Atmel AVR microcontrollers
-.
-.TP
-.B Logic synthesis
-Verilog and VHDL with FPGAs and PLDs
 
 .SH Awards
+.SS University of British Columbia
+2012\[en]present CIHR/MSFHR Strategic Training Program in Bioinformatics
 .SS Simon Fraser University
 1999\[en]2004 Open Undergraduate Scholarship
 .br

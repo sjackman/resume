@@ -14,4 +14,4 @@ clean:
 	$(GROFF) -Tps $< >$@
 
 %.pdf: %.ps
-	ps2pdf $< $@
+	pstopdf $< $@
