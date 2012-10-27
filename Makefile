@@ -1,16 +1,16 @@
-GROFF=groff -M. -mcv -rS12
+GROFF=groff -M. -mresume -rS12
 
-all: sdj-cv.pdf sdj-cv.html
+all: ShaunJackman.html ShaunJackman.pdf
 
 clean:
-	rm -f sdj-cv.html sdj-cv.pdf sdj-cv.ps
+	rm -f ShaunJackman.html ShaunJackman.pdf ShaunJackman.ps
 
 .PHONY: all clean
 
-%-cv.html: %.cv
+%.html: %.tr
 	$(GROFF) -Thtml $< >$@
 
-%-cv.ps: %.cv
+%.ps: %.tr
 	$(GROFF) -Tps $< >$@
 
 %.pdf: %.ps
