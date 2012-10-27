@@ -1,0 +1,131 @@
+.TH "" 778-235-0342 "2007-August" "Curriculum vitae" "Shaun Jackman <sjackman@gmail.com>"
+
+.SH \s+9Shaun Jackman
+EIT, BASc (First Class Hons.) Computer Eng.
+
+.SH Background
+I am a first class honours graduate in computer engineering, a
+computer and electronics enthusiast, an open-source software advocate,
+an avid traveller, a climber, a singer, and an experimental amateur
+chef. I am currently an Engineer in Training (EIT) with the
+Association of Professional Engineers and Geoscientists of B.C.
+(APEGBC). I have six years of industry experience developing embedded
+systems and programming real-time systems in C, C++, and assembly
+language. I have extensive experience developing software for Linux
+systems and using Linux-based development tools to design firmware for
+embedded systems.
+
+.SH Work Experience
+.
+.SS Pathway Connectivity Inc.
+2004/2007 \- Calgary, Alberta
+.br
+Developed the firmware for Pathway's newest product line of small, low
+cost lighting control devices. This DIN-rail-mounted product line,
+which used Atmel's AVR microcontroller, converts between a variety of
+lighting-control protocols including DMX512, analog, PWM, and contact
+closure.
+.
+.SS Vortek Industries Ltd.
+2002-May/Aug \- Vancouver, British Columbia \- Co-op work experience
+.br
+Worked on the rapid thermal processing tool used in the manufacturing
+of semiconductor devices. Developed the temperature sensor and lamp
+power control system using the QNX real-time operating system.
+.
+.SS Pathway Connectivity Inc.
+2000-Jan/Dec \- Calgary, Alberta \- Co-op work experience
+.br
+Aided in modernizing the lighting control industry by working on the
+design of a novel piece of equipment, the Pathport, to adapt legacy
+lighting control equipment to Ethernet. This industry-changing product
+won an award for best new product that year at the industry trade
+show, Lighting Dimensions International.
+.
+.SS BC Place Stadium (BC Pavilion Corporation)
+1999-May/Aug \- Vancouver, British Columbia \- Co-op work experience
+.br
+Maintained the Novell NetWare WAN and office workstations at the BC
+Place Stadium site of this multi-site crown corporation.
+
+.SH Knowledge
+.
+.TP 
+.B Programming languages
+C, C++, assembly language, Java, Perl, Python, and Matlab
+.
+.TP
+.B Logic synthesis
+Verilog and VHDL with Altera and Xilinx FPGAs and PLDs
+.
+.SH Knowledge \fRcont.
+.
+.TP
+.B Network communication protocols
+Intimate knowledge of the TCP/IP protocol stack and Ethernet
+.
+.TP
+.B Embedded hardware platforms
+ARM microprocessors and Atmel AVR microcontrollers
+.
+.TP
+.B Electronics
+Analog and digital electronics and prototyping
+.
+.TP
+.B Operating systems
+Linux and the QNX real-time operating system
+.
+.TP
+.B Project management
+Source code management and revision control
+
+.SH Education
+.
+.SS BASc (First Class Hons.) Computer Eng., Simon Fraser University
+1998/2004 \- Burnaby, British Columbia
+.br
+Scholarship student in Computer Engineering. Honours undergraduate
+thesis on the topic of using Ethernet in entertainment
+lighting-control systems. Completed two full years of co-op work
+experience at three companies. GPA 3.85.
+.
+.SS French immersion, New Westminster Secondary School
+1993/1998 \- New Westminster, British Columbia
+.br
+Completed senior Math and Calculus at age sixteen and continued
+studying mathematics at Simon Fraser University while still completing
+secondary-school education.
+.
+.SS Royal Conservatory of Music
+1990/1998 \- New Westminster, British Columbia
+.br
+Studied piano in private lessons and achieved my eighth grade certificate.
+
+.SH Volunteer Experience
+.
+.SS The Debian Project
+2002/present
+.br
+Maintain a number of open-source software packages for the Debian
+distribution of GNU/Linux.
+
+.SH Awards
+.
+.SS Western Engineering Conference and Competition
+2002 \- Gold medal in Explanatory Communications. Bronze medal in
+Entrepreneurial Design.
+.
+.SS Simon Fraser University
+1999/2004 \- Open Undergraduate Scholarship
+.br
+1998 \- Tadeusz Specht Memorial Entrance Scholarship in Science
+
+.SH "Contact Information"
+.
+.TP
+.B Email
+Shaun Jackman <sjackman@gmail.com>
+.TP
+.B Phone
+778-235-0342
