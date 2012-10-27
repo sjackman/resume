@@ -1,29 +1,35 @@
-.TH "" 778-235-0342 "2007-August" "Curriculum vitae" "Shaun Jackman <sjackman@gmail.com>"
+.TH "" 778-235-0342 "2011-April" "Curriculum vitae" "Shaun Jackman <sjackman@gmail.com>"
 
 .SH \s+9Shaun Jackman
-EIT, BASc (First Class Hons.) Computer Eng.
+BASc (First Class Hons.) Computer Eng.
 
 .SH Background
 I am a first class honours graduate in computer engineering, a
 computer and electronics enthusiast, an open-source software advocate,
-an avid traveller, a climber, a singer, and an experimental amateur
-chef. I am currently an Engineer in Training (EIT) with the
-Association of Professional Engineers and Geoscientists of B.C.
-(APEGBC). I have six years of industry experience developing embedded
-systems and programming real-time systems in C, C++, and assembly
+an avid traveller, a climber, a singer and an experimental amateur
+chef. I have six years of industry experience developing embedded
+systems and programming real-time systems in C++, C and assembly
 language. I have extensive experience developing software for Linux
 systems and using Linux-based development tools to design firmware for
 embedded systems.
 
 .SH Work Experience
 .
+.SS BC Cancer Agency Genome Sciences Centre
+2008/2011 \- Vancouver, British Columbia \- Computational biologist
+.br
+Developed the genome sequence assembly software package, ABySS. This
+heavily parallel and distributed software system, which uses MPI,
+pthread and OpenMP for parallel computation, was the first system to
+assemble a human genome from short-read sequencing technology.
+.
 .SS Pathway Connectivity Inc.
-2004/2007 \- Calgary, Alberta
+2004/2007 \- Calgary, Alberta \- Embedded firmware developer
 .br
 Developed the firmware for Pathway's newest product line of small, low
 cost lighting control devices. This DIN-rail-mounted product line,
 which used Atmel's AVR microcontroller, converts between a variety of
-lighting-control protocols including DMX512, analog, PWM, and contact
+lighting-control protocols including DMX512, analog, PWM and contact
 closure.
 .
 .SS Vortek Industries Ltd.
@@ -41,18 +47,12 @@ design of a novel piece of equipment, the Pathport, to adapt legacy
 lighting control equipment to Ethernet. This industry-changing product
 won an award for best new product that year at the industry trade
 show, Lighting Dimensions International.
-.
-.SS BC Place Stadium (BC Pavilion Corporation)
-1999-May/Aug \- Vancouver, British Columbia \- Co-op work experience
-.br
-Maintained the Novell NetWare WAN and office workstations at the BC
-Place Stadium site of this multi-site crown corporation.
 
 .SH Knowledge
 .
 .TP 
 .B Programming languages
-C, C++, assembly language, Java, Perl, Python, and Matlab
+C++, C, assembly language, Java, Perl, Python and Matlab
 .
 .TP
 .B Logic synthesis
@@ -79,6 +79,37 @@ Linux and the QNX real-time operating system
 .TP
 .B Project management
 Source code management and revision control
+
+.SH Publications
+.SS
+De novo assembly and analysis of RNA-seq data
+G Robertson, J Schein, R Chiu, R Corbett, M Field, SD Jackman et al,
+.I
+Nature Methods\fR,
+2010
+.SS
+Assembling genomes using short-read sequencing technology
+SD Jackman and I Birol,
+.I Genome Biology\fR,
+2010
+.SS
+De novo transcriptome assembly with ABySS
+I Birol, SD Jackman, CB Nielsen et al,
+.I
+Bioinformatics\fR,
+2009
+.SS
+ABySS-Explorer: visualizing genome sequence assemblies
+CB Nielsen, SD Jackman, I Birol et al,
+.I
+IEEE Transactions on Visualization and Computer Graphics\fR,
+2009
+.SS
+ABySS: a parallel assembler for short read sequence data
+JT Simpson, K Wong, SD Jackman et al,
+.I
+Genome Research\fR,
+2009
 
 .SH Education
 .
