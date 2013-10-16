@@ -1,4 +1,3 @@
-
 Shaun Jackman
 =============
 
@@ -9,11 +8,11 @@ BASc (First Class Hons.) Computer Eng.
 Background
 ==========
 
-I am a first class honours graduate in computer engineering, a masters
+I am a first class honours graduate in computer engineering, a master's
 student in bioinformatics, a computer and electronics enthusiast, an
 open-source software advocate, an avid traveller, a climber, a singer
-and an experimental amateur chef. I have ten years of industry
-experience developing software in C++, C and assembly, including four
+and an experimental amateur chef. I have eleven years of industry
+experience developing software in C++, C and assembly, including five
 years developing high-performance distributed and parallel algorithms
 for genome sequence assembly, and six years developing embedded and
 real-time control systems. I have extensive experience developing
@@ -21,12 +20,29 @@ portable software for POSIX systems such as GNU/Linux and Mac OS X.
 When developing performance-critical software, I understand the
 hardware from the transistor up.
 
+Education
+=========
+
+2012–present — MSc Bioinformatics
+---------------------------------
+### University of British Columbia
+
+NSERC CGS-M scholarship student in bioinformatics. GPA 4.26 (93%)
+
+1998–2004 — BASc (First Class Hons.) Computer Eng.
+--------------------------------------------------
+### Simon Fraser University
+
+Scholarship student in Computer Engineering. Completed an honours
+undergraduate thesis and two full years of co-op work experience at
+three companies. GPA 3.85
+
 Work Experience
 ===============
 
 2008–2012 — Computational biologist
 -------------------------------------------
-**BC Cancer Agency Genome Sciences Centre**
+### BC Cancer Agency Genome Sciences Centre
 
 Developed the genome sequence assembly software package, ABySS. This
 heavily parallel and distributed software system, which uses MPI,
@@ -35,7 +51,7 @@ assemble a human genome using short-read sequencing technology.
 
 2004–2007 — Embedded firmware developer
 -----------------------------------------------
-**Pathway Connectivity Inc.**
+### Pathway Connectivity Inc.
 
 Developed the firmware for Pathway's product line of small, low-cost
 lighting control devices. These DIN-rail-mounted devices, which use
@@ -46,14 +62,6 @@ novel piece of equipment, the Pathport, to adapt legacy lighting
 control equipment to Ethernet. This industry-changing product won an
 award for best new product at the industry trade show, Lighting
 Dimensions International.
-
-2002 May–Aug — Co-op work experience
---------------------------------------------
-**Vortek Industries Ltd.**
-
-Worked on the rapid thermal processing tool used in the manufacturing
-of semiconductor devices. Developed the temperature sensor and lamp
-power control system using the QNX real-time operating system.
 
 Volunteer Experience
 ====================
@@ -68,42 +76,45 @@ menagerie of bioinformatics software.
 Selected Publications
 =====================
 
-De novo assembly and analysis of RNA-seq data
+### Assembling the 20 Gb white spruce (Picea glauca) genome from WGSS data
+I Birol, A Raymond, **SD Jackman**, et al.
+(2013)
+_Bioinformatics_
+
+### Draft genome of the mountain pine beetle, Dendroctonus ponderosae Hopkins
+CI Keeling, MM Yuen, NY Liao, TR Docking, SK Chan, GA Taylor, DL Palmquist, **SD Jackman**, et al.
+(2013)
+_Genome Biology_
+
+### The genome and transcriptome of the pine saprophyte Ophiostoma piceae
+S Haridas, Y Wang, L Lim, SM Alamouti, **SD Jackman**, et al.
+(2013)
+_BMC Genomics_
+
+### De novo assembly and analysis of RNA-seq data
 G Robertson, J Schein, R Chiu, R Corbett, M Field, **SD Jackman** et al.
-_Nature Methods_ 2010
+(2010)
+_Nature Methods_
 
-Assembling genomes using short-read sequencing technology
+### Assembling genomes using short-read sequencing technology
 **SD Jackman** and I Birol
-_Genome Biology_ 2010
+(2010)
+_Genome Biology_
 
-De novo transcriptome assembly with ABySS
+### De novo transcriptome assembly with ABySS
 I Birol, **SD Jackman**, CB Nielsen et al.
-_Bioinformatics_ 2009
+(2009)
+_Bioinformatics_
 
-ABySS-Explorer: visualizing genome sequence assemblies
+### ABySS-Explorer: visualizing genome sequence assemblies
 CB Nielsen, **SD Jackman**, I Birol et al.
-_IEEE Transactions on Visualization and Computer Graphics_ 2009
+(2009)
+_IEEE Transactions on Visualization and Computer Graphics_
 
-ABySS: a parallel assembler for short read sequence data
+### ABySS: a parallel assembler for short read sequence data
 JT Simpson, K Wong, **SD Jackman** et al.
-_Genome Research_ 2009
-
-Education
-=========
-
-2012–present — MSc Bioinformatics
----------------------------------
-**University of British Columbia**
-
-Scholarship student in bioinformatics.
-
-1998–2004 — BASc (First Class Hons.) Computer Eng.
---------------------------------------------------
-**Simon Fraser University**
-
-Scholarship student in Computer Engineering. Completed an honours
-undergraduate thesis and two full years of co-op work experience at
-three companies. GPA 3.85.
+(2009)
+_Genome Research_
 
 Knowledge
 =========
@@ -121,7 +132,7 @@ mutations
 Programming languages
 ---------------------
 
-C++, C, assembly language, Python, Matlab, Java, Perl and Haskell
+C++, C, assembly, R, Python, Matlab, Java, Perl and Haskell
 
 Parallel processing
 -------------------
@@ -139,11 +150,11 @@ Awards
 University of British Columbia
 ------------------------------
 
-2012–present CIHR/MSFHR Strategic Training Program in Bioinformatics
+* 2013-present NSERC Canada Graduate Scholarship (CGS-M)
+* 2012–present CIHR/MSFHR Strategic Training Program in Bioinformatics
 
 Simon Fraser University
 -----------------------
 
-1999–2004 Open Undergraduate Scholarship
-
-1998–1999 Tadeusz Specht Memorial Entrance Scholarship in Science
+* 1999–2004 Open Undergraduate Scholarship
+* 1998–1999 Tadeusz Specht Memorial Entrance Scholarship in Science

@@ -1,20 +1,32 @@
-.TH "" "778-235-0342" "2012-October" "Resume" "Shaun Jackman <sjackman@gmail.com>"
+.TH "" "778-235-0342" "2013-October" "Resume" "Shaun Jackman <sjackman@gmail.com>"
 
 .SH \s+9Shaun Jackman
 BASc (First Class Hons.) Computer Eng.
 
 .SH Background
-I am a first class honours graduate in computer engineering, a masters
+I am a first class honours graduate in computer engineering, a master's
 student in bioinformatics, a computer and electronics enthusiast, an
 open-source software advocate, an avid traveller, a climber, a singer
-and an experimental amateur chef. I have ten years of industry
-experience developing software in C++, C and assembly, including four
+and an experimental amateur chef. I have eleven years of industry
+experience developing software in C++, C and assembly, including five
 years developing high-performance distributed and parallel algorithms
 for genome sequence assembly, and six years developing embedded and
 real-time control systems. I have extensive experience developing
 portable software for POSIX systems such as GNU/Linux and Mac OS X.
 When developing performance-critical software, I understand the
 hardware from the transistor up.
+
+.SH Education
+.
+.SS 2012\[en]present MSc Bioinformatics, University of British Columbia
+.br
+NSERC CGS-M scholarship student in bioinformatics. GPA 4.26 (93%)
+.
+.SS 1998\[en]2004 BASc (First Class Hons.) Computer Eng., Simon Fraser University
+.br
+Scholarship student in Computer Engineering. Completed an honours
+undergraduate thesis and two full years of co-op work experience at
+three companies. GPA 3.85
 
 .SH Work Experience
 .
@@ -39,13 +51,6 @@ control equipment to Ethernet. This industry-changing product won an
 award for best new product at the industry trade show, Lighting
 Dimensions International.
 .
-.SS 2002 May\[en]Aug \[em] Co-op work experience
-.B Vortek Industries Ltd.
-.br
-Worked on the rapid thermal processing tool used in the manufacturing
-of semiconductor devices. Developed the temperature sensor and lamp
-power control system using the QNX real-time operating system.
-.
 .SH Volunteer Experience
 .
 .SS 2002\[en]present \[em] Debian developer
@@ -55,46 +60,48 @@ menagerie of bioinformatics software.
 .
 .bp
 .
-.SH Selected publications
+.SH Selected publications \fR(8 of 18)
+.SS
+Assembling the 20 Gb white spruce (Picea glauca) genome from WGSS data
+I Birol, A Raymond, \fBSD Jackman\fR, et al.
+(2013)
+.I Bioinformatics
+.SS
+Draft genome of the mountain pine beetle, Dendroctonus ponderosae Hopkins
+CI Keeling, MM Yuen, NY Liao, TR Docking, SK Chan, GA Taylor, DL Palmquist, \fBSD Jackman\fR, et al.
+(2013)
+.I Genome Biology
+.SS
+The genome and transcriptome of the pine saprophyte Ophiostoma piceae
+S Haridas, Y Wang, L Lim, SM Alamouti, \fBSD Jackman\fR, et al.
+(2013)
+.I BMC Genomics
 .SS
 De novo assembly and analysis of RNA-seq data
 G Robertson, J Schein, R Chiu, R Corbett, M Field, \fBSD Jackman\fR et al.
+(2010)
 .br
 .I Nature Methods
-2010
 .SS
 Assembling genomes using short-read sequencing technology
 \fBSD Jackman\fR and I Birol
+(2010)
 .I Genome Biology
-2010
 .SS
 De novo transcriptome assembly with ABySS
 I Birol, \fBSD Jackman\fR, CB Nielsen et al.
+(2009)
 .I Bioinformatics
-2009
 .SS
 ABySS-Explorer: visualizing genome sequence assemblies
 CB Nielsen, \fBSD Jackman\fR, I Birol et al.
-.br
-.I IEEE Transactions on Visualization and Computer Graphics
-2009
+(2009)
+.I IEEE TVCG
 .SS
 ABySS: a parallel assembler for short read sequence data
 JT Simpson, K Wong, \fBSD Jackman\fR et al.
+(2009)
 .I Genome Research
-2009
-
-.SH Education
-.
-.SS 2012\[en]present MSc Bioinformatics, University of British Columbia
-.br
-Scholarship student in bioinformatics.
-.
-.SS 1998\[en]2004 BASc (First Class Hons.) Computer Eng., Simon Fraser University
-.br
-Scholarship student in Computer Engineering. Completed an honours
-undergraduate thesis and two full years of co-op work experience at
-three companies. GPA 3.85.
 
 .SH Knowledge
 .
@@ -107,7 +114,7 @@ alignment (BWA, gmap, exonerate, BLAT, BLAST), variant calling
 mutations
 .
 .SS Programming languages
-C++, C, assembly language, Python, Matlab, Java, Perl and Haskell
+C++, C, assembly, R, Python, Matlab, Java, Perl and Haskell
 .
 .SS Parallel processing
 POSIX threads, OpenMP and MPI
@@ -117,6 +124,8 @@ Debian, Ubuntu, other GNU/Linux distributions and Mac OS X
 
 .SH Awards
 .SS University of British Columbia
+2013\[en]present NSERC Canada Graduate Scholarship (CGS-M)
+.br
 2012\[en]present CIHR/MSFHR Strategic Training Program in Bioinformatics
 .SS Simon Fraser University
 1999\[en]2004 Open Undergraduate Scholarship
