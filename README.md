@@ -1,39 +1,42 @@
 Shaun Jackman
 =============
 
-BASc (First Class Hons.) Computer Eng.
-
-<sjackman@gmail.com>
+PhD Student Bioinformatics, BASc (First Class Hons.) Computer Engineering
 
 Background
 ==========
 
-I am a first class honours graduate in computer engineering, a master's
-student in bioinformatics, a computer and electronics enthusiast, an
-open-source software advocate, an avid traveller, a climber, a singer
-and an experimental amateur chef. I have eleven years of industry
-experience developing software in C++, C and assembly, including five
-years developing high-performance distributed and parallel algorithms
-for genome sequence assembly, and six years developing embedded and
-real-time control systems. I have extensive experience developing
-portable software for POSIX systems such as GNU/Linux and Mac OS X.
-When developing performance-critical software, I understand the
-hardware from the transistor up.
+I am a PhD student in bioinformatics, a first class honours graduate
+in computer engineering, a computer and electronics enthusiast, an
+open-source software developer and advocate, an avid traveller, a
+hiker, a singer and an experimental amateur chef. I have twelve years
+of industry and academic experience developing software in C++ and a
+variety of scripting languages, including six years developing
+high-performance distributed and parallel algorithms for genome
+sequence assembly, and six years developing embedded and real-time
+control systems. I have extensive experience developing portable
+software for POSIX systems such as GNU/Linux and Mac OS X. When
+developing performance-critical software, I understand the hardware
+from the transistor up.
 
 Education
 =========
 
-2012–present — MSc Bioinformatics
----------------------------------
+2012–present — PhD Student Bioinformatics
+-----------------------------------------
+
 ### University of British Columbia
 
-NSERC CGS-M scholarship student in bioinformatics. GPA 4.26 (93%)
+NSERC CGS-M and CGS-D scholarship student in bioinformatics. Coursework
+in bioinformatics, statistics, machine learning and genetics.
+GPA 4.26 (93%)
 
-1998–2004 — BASc (First Class Hons.) Computer Eng.
---------------------------------------------------
+1998–2004 — BASc (First Class Hons.) Computer Engineering
+---------------------------------------------------------
+
 ### Simon Fraser University
 
-Scholarship student in Computer Engineering. Completed an honours
+Scholarship student in computer engineering. Completed an honours
 undergraduate thesis and two full years of co-op work experience at
 three companies. GPA 3.85
 
@@ -42,39 +45,51 @@ Work Experience
 
 2008–2012 — Computational biologist
 -------------------------------------------
+
 ### BC Cancer Agency Genome Sciences Centre
 
 Developed the genome sequence assembly software package, ABySS. This
-heavily parallel and distributed software system, which uses MPI,
-pthread and OpenMP for parallel computation, was the first system to
-assemble a human genome using short-read sequencing technology.
+heavily parallel and distributed software system, which uses both MPI
+and OpenMP for parallel computation, was the first system to assemble
+a human genome using short-read sequencing technology.
 
 2004–2007 — Embedded firmware developer
 -----------------------------------------------
+
 ### Pathway Connectivity Inc.
 
 Developed the firmware for Pathway's product line of small, low-cost
-lighting control devices. These DIN-rail-mounted devices, which use
-Atmel's AVR microcontroller, convert between a variety of
+lighting control devices. These small devices, which use Atmel's AVR
+and ARM microcontrollers, convert between a variety of
 lighting-control protocols including DMX512, analog, PWM and contact
-closure. Modernized the lighting control industry by developing a
-novel piece of equipment, the Pathport, to adapt legacy lighting
-control equipment to Ethernet. This industry-changing product won an
-award for best new product at the industry trade show, Lighting
-Dimensions International.
+closure. Modernized the lighting control industry in developing a
+device, the Pathport, to adapt legacy lighting control equipment to
+Ethernet. This industry-changing product won an award for best new
+product at the industry trade show, Lighting Dimensions International.
+
+2002 May — Co-op work experience
+--------------------------------
+
+### Vortek Industries Ltd.
+
+Worked on the rapid thermal processing tool used in the manufacturing
+of semiconductor devices. Developed the temperature sensor and lamp
+power control system using the QNX real-time operating system.
 
 Volunteer Experience
 ====================
 
-2002–present — Debian developer
----------------------------------------
+2002–present — Open-source developer
+------------------------------------
 
-Maintain open-source software packages for the Debian distribution
-of GNU/Linux. Member of the Debian Med team, which maintains a
-menagerie of bioinformatics software.
+Maintain open-source bioinformatics software packages for the Mac OS
+package manager, Homebrew-science, and the Debian distribution of
+GNU/Linux.
 
 Selected Publications
 =====================
+
+8 of 19 peer-reviewed publications, h-index 14, over 2000 citations
 
 ### Assembling the 20 Gb white spruce (Picea glauca) genome from WGSS data
 I Birol, A Raymond, **SD Jackman**, et al.
@@ -123,26 +138,25 @@ Bioinformatics
 --------------
 
 Techniques for analysis of whole-genome shotgun sequencing and
-RNA-seq, including _de novo_ sequence assembly (ABySS), sequence
+RNA-seq, including *de novo* sequence assembly (ABySS), sequence
 alignment (BWA, gmap, exonerate, BLAT, BLAST), variant calling
-(samtools), visualization and inspection of genomic rearrangements
-(IGV) and analysis of tumour-normal pairs to identify somatic
-mutations
+(samtools), genome annotation (MAKER) and visualization and inspection
+of genome assemblies and rearrangements (IGV)
 
 Programming languages
 ---------------------
 
-C++, C, assembly, R, Python, Matlab, Java, Perl and Haskell
+C++, C, R, Python, Ruby, Matlab, Haskell and assembly
 
 Parallel processing
 -------------------
 
-POSIX threads, OpenMP and MPI
+OpenMP, MPI and POSIX threads
 
 Operating systems
 -----------------
 
-Debian, Ubuntu, other GNU/Linux distributions and Mac OS X
+Mac OS X, Debian, Ubuntu and other GNU/Linux distributions
 
 Awards
 ======
@@ -150,8 +164,9 @@ Awards
 University of British Columbia
 ------------------------------
 
-* 2013-present NSERC Canada Graduate Scholarship (CGS-M)
-* 2012–present CIHR/MSFHR Strategic Training Program in Bioinformatics
+* 2013-present Natural Sciences and Engineering Research Council of Canada (NSERC)
+  Canada Graduate Scholarship (CGS-M and CGS-D)
+* 2012–2013 CIHR/MSFHR Strategic Training Program in Bioinformatics
 
 Simon Fraser University
 -----------------------
