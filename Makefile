@@ -8,7 +8,7 @@ clean:
 .PHONY: all clean
 
 %.html: %.md
-	markdown $< >$@
+	pandoc -s -o $@ $<
 
 %.html: %.tr
 	$(GROFF) -Thtml $< >$@
