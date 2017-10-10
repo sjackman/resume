@@ -1,0 +1,8 @@
+title: Shaun Jackman
+description: PhD Student Bioinformatics, BASc (First Class Hons.) Computer Engineering
+google_analytics: UA-2437900-4
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
