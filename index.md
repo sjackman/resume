@@ -146,12 +146,12 @@ C++, C, R, Python, Ruby, shell, and assembly.
 Parallel processing
 -------------------
 
-OpenMP, MPI, and POSIX threads
+OpenMP, MPI, and POSIX threads.
 
 Operating systems
 -----------------
 
-macOS, Debian, Ubuntu, and other GNU/Linux distributions
+macOS, Debian, Ubuntu, and other GNU/Linux distributions.
 
 Awards
 ======
