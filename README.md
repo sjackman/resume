@@ -76,9 +76,29 @@ Maintain open-source bioinformatics software packages for Homebrew and Linuxbrew
 Selected Publications
 =====================
 
-h-index of 20 and over 6,000 citations
+A selection of 12 of 29 peer-reviewed publications, h-index of 20, and over 6,000 citations
 
-### Assembling the 20 Gb white spruce (Picea glauca) genome from WGSS data
+### ABySS 2.0: Resource-efficient assembly of large genomes using a Bloom filter
+**Jackman SD**, Vandervalk BP, Mohamadi H, Chu J, Yeo S, Hammond SA, Jahesh G, Khan H, Coombe L, Warren RL, et al.
+(2017)
+**Genome Research**
+
+### Organellar Genomes of White Spruce (*Picea glauca*): Assembly and Annotation
+**Jackman SD**, Warren RL, Gibb EA, Vandervalk BP, Mohamadi H, Chu J, Raymond A, Pleasance S, Coope R, Wildung MR, et al.
+(2015)
+*Genome Biology and Evolution*
+
+### Improved white spruce (*Picea glauca*) genome assemblies and annotation of large gene families of conifer terpenoid and phenolic defense metabolism
+Warren RL, Keeling CI, Yuen MMS, Raymond A, Taylor GA, Vandervalk BP, Mohamadi H, Paulino D, Chiu R, **Jackman SD**, et al.
+(2015)
+*The Plant Journal*
+
+### UniqTag: Content-Derived Unique and Stable Identifiers for Gene Annotation
+**Jackman SD**, Bohlmann J, Birol İ.
+(2015)
+*PLOS ONE*
+
+### Assembling the 20 Gb white spruce (*Picea glauca*) genome from WGSS data
 I Birol, A Raymond, **SD Jackman**, et al.
 (2013)
 _Bioinformatics_
