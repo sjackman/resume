@@ -1,26 +1,15 @@
-I am a PhD student in bioinformatics, a first class honours graduate
-in computer engineering, a computer and electronics enthusiast, an
-open-source software developer and advocate, an avid traveller, a
-hiker, a singer and an experimental amateur chef. I have twelve years
-of industry and academic experience developing software in C++ and a
-variety of scripting languages, including six years developing
-high-performance distributed and parallel algorithms for genome
-sequence assembly, and six years developing embedded and real-time
-control systems. I have extensive experience developing portable
-software for POSIX systems such as GNU/Linux and Mac OS X. When
-developing performance-critical software, I understand the hardware
-from the transistor up.
+I am a PhD candidate in bioinformatics, a first class honours graduate in computer engineering, a computer and electronics enthusiast, an open-source software developer and advocate, an avid traveller, a hiker, a singer, and an experimental cook. I have fifteen years of industry and academic experience developing software in C++ and a variety of scripting languages, including nine years developing high-performance distributed and parallel algorithms for genome sequence assembly, and six years developing embedded and real-time control systems. I have extensive experience developing portable software for POSIX systems such as Linux and macOS. When developing performance-critical software, I understand the hardware from the transistor up.
 
 Education
 =========
 
-2012–present — PhD Student Bioinformatics
+2012–present — PhD Candidate Bioinformatics
 -----------------------------------------
 
 ### University of British Columbia
 
 NSERC CGS-M and CGS-D scholarship student in bioinformatics. Coursework
-in bioinformatics, statistics, machine learning and genetics.
+in bioinformatics, statistics, machine learning, and genetics.
 GPA 4.26 (93%)
 
 1998–2004 — BASc (First Class Hons.) Computer Engineering
@@ -53,7 +42,7 @@ a human genome using short-read sequencing technology.
 Developed the firmware for Pathway's product line of small, low-cost
 lighting control devices. These small devices, which use Atmel's AVR
 and ARM microcontrollers, convert between a variety of
-lighting-control protocols including DMX512, analog, PWM and contact
+lighting-control protocols including DMX512, analog, PWM, and contact
 closure. Modernized the lighting control industry in developing a
 device, the Pathport, to adapt legacy lighting control equipment to
 Ethernet. This industry-changing product won an award for best new
@@ -74,14 +63,12 @@ Volunteer Experience
 2002–present — Open-source developer
 ------------------------------------
 
-Maintain open-source bioinformatics software packages for the Mac OS
-package manager, Homebrew-science, and the Debian distribution of
-GNU/Linux.
+Maintain open-source bioinformatics software packages for Homebrew and Linuxbrew. Lead developer of Linuxbrew, the Homebrew package manager for Linux.
 
 Selected Publications
 =====================
 
-8 of 19 peer-reviewed publications, h-index 14, over 2000 citations
+h-index of 20 and over 6,000 citations
 
 ### Assembling the 20 Gb white spruce (Picea glauca) genome from WGSS data
 I Birol, A Raymond, **SD Jackman**, et al.
@@ -129,26 +116,22 @@ Knowledge
 Bioinformatics
 --------------
 
-Techniques for analysis of whole-genome shotgun sequencing and
-RNA-seq, including *de novo* sequence assembly (ABySS), sequence
-alignment (BWA, gmap, exonerate, BLAT, BLAST), variant calling
-(samtools), genome annotation (MAKER) and visualization and inspection
-of genome assemblies and rearrangements (IGV)
+Techniques for analysis of whole-genome shotgun sequencing and RNA-seq, including *de novo* sequence assembly, sequence alignment, variant calling, genome annotation, and visualization and inspection of genome assemblies, variants, and rearrangements.
 
 Programming languages
 ---------------------
 
-C++, C, R, Python, Ruby, Matlab, Haskell and assembly
+C++, C, R, Python, Ruby, shell, and assembly.
 
 Parallel processing
 -------------------
 
-OpenMP, MPI and POSIX threads
+OpenMP, MPI, and POSIX threads
 
 Operating systems
 -----------------
 
-Mac OS X, Debian, Ubuntu and other GNU/Linux distributions
+macOS, Debian, Ubuntu, and other GNU/Linux distributions
 
 Awards
 ======
