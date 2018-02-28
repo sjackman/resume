@@ -1,65 +1,45 @@
 I am a PhD candidate in bioinformatics, a first class honours graduate in computer engineering, a computer and electronics enthusiast, an open-source software developer and advocate, an avid traveller, a hiker, a singer, and an experimental cook. I have fifteen years of industry and academic experience developing software in C++ and a variety of scripting languages, including nine years developing high-performance distributed and parallel algorithms for genome sequence assembly, and six years developing embedded and real-time control systems. I have extensive experience developing portable software for POSIX systems such as Linux and macOS. When developing performance-critical software, I understand the hardware from the transistor up.
 
-Education
-=========
+## Education
 
-2012–present — PhD Candidate Bioinformatics
------------------------------------------
-
-### University of British Columbia
+### 2012–present — PhD Candidate Bioinformatics — University of British Columbia
 
 NSERC CGS-M and CGS-D scholarship student in bioinformatics. Coursework
 in bioinformatics, statistics, machine learning, and genetics.
 GPA 4.26 (93%)
 
-1998–2004 — BASc (First Class Hons.) Computer Engineering
----------------------------------------------------------
-
-### Simon Fraser University
+### 1998–2004 — BASc (First Class Hons.) Computer Engineering — Simon Fraser University
 
 Scholarship student in computer engineering. Completed an honours
 undergraduate thesis and two full years of co-op work experience at
 three companies. GPA 3.85
 
-Work Experience
-===============
+## Work Experience
 
-2008–2012 — Computational biologist
--------------------------------------------
-
-### BC Cancer Agency Genome Sciences Centre
+### 2008–2012 — Computational biologist — BC Cancer Genome Sciences Centre
 
 Developed the genome sequence assembly software package, ABySS. This
 heavily parallel and distributed software system, which uses both MPI
 and OpenMP for parallel computation, was the first system to assemble
 a human genome using short-read sequencing technology.
 
-2004–2007 — Embedded firmware developer
------------------------------------------------
-
-### Pathway Connectivity Inc.
+### 2004–2007 — Embedded firmware developer — Pathway Connectivity Inc.
 
 Developed the firmware for Pathway's product line of small, low-cost lighting control devices. These small devices, which use Atmel's AVR and ARM microcontrollers, convert between a variety of lighting-control protocols. Modernized the lighting control industry in developing a device to adapt legacy lighting control equipment to Ethernet. This industry-changing product, the Pathport, won an award for best new product at the industry trade show, Lighting Dimensions International.
 
-2002 May — Co-op work experience
---------------------------------
-
-### Vortek Industries Ltd.
+### 2002 May — Co-op work experience — Vortek Industries Ltd.
 
 Worked on the rapid thermal processing tool used in the manufacturing
 of semiconductor devices. Developed the temperature sensor and lamp
 power control system using the QNX real-time operating system.
 
-Volunteer Experience
-====================
+## Volunteer Experience
 
-2002–present — Open-source developer
-------------------------------------
+### 2002–present — Open-source developer
 
 Maintain open-source bioinformatics software packages for Homebrew and Linuxbrew. Lead developer of Linuxbrew, the Homebrew package manager for Linux.
 
-Selected Publications
-=====================
+## Selected Publications
 
 A selection of 12 of 29 peer-reviewed publications, h-index of 20, and over 7,000 citations
 
@@ -123,41 +103,33 @@ JT Simpson, K Wong, **SD Jackman** et al.
 (2009)
 _Genome Research_
 
-Knowledge
-=========
+## Knowledge
 
-Bioinformatics
---------------
+### Bioinformatics
 
 Techniques for analysis of whole-genome shotgun sequencing and RNA-seq, including *de novo* sequence assembly, sequence alignment, variant calling, genome annotation, and visualization and inspection of genome assemblies, variants, and rearrangements.
 
-Programming languages
----------------------
+### Programming languages
 
 C++, C, R, Python, Ruby, shell, and assembly.
 
-Parallel processing
--------------------
+### Parallel processing
 
 OpenMP, MPI, and POSIX threads.
 
-Operating systems
------------------
+### Operating systems
 
 macOS, Debian, Ubuntu, and other GNU/Linux distributions.
 
-Awards
-======
+## Awards
 
-University of British Columbia
-------------------------------
+### University of British Columbia
 
 * 2013-2018 Natural Sciences and Engineering Research Council of Canada (NSERC)
   Canada Graduate Scholarship (CGS-M and CGS-D)
 * 2012–2013 CIHR/MSFHR Strategic Training Program in Bioinformatics
 
-Simon Fraser University
------------------------
+### Simon Fraser University
 
 * 1999–2004 Open Undergraduate Scholarship
 * 1998–1999 Tadeusz Specht Memorial Entrance Scholarship in Science
