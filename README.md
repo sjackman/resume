@@ -39,14 +39,7 @@ a human genome using short-read sequencing technology.
 
 ### Pathway Connectivity Inc.
 
-Developed the firmware for Pathway's product line of small, low-cost
-lighting control devices. These small devices, which use Atmel's AVR
-and ARM microcontrollers, convert between a variety of
-lighting-control protocols including DMX512, analog, PWM, and contact
-closure. Modernized the lighting control industry in developing a
-device, the Pathport, to adapt legacy lighting control equipment to
-Ethernet. This industry-changing product won an award for best new
-product at the industry trade show, Lighting Dimensions International.
+Developed the firmware for Pathway's product line of small, low-cost lighting control devices. These small devices, which use Atmel's AVR and ARM microcontrollers, convert between a variety of lighting-control protocols. Modernized the lighting control industry in developing a device to adapt legacy lighting control equipment to Ethernet. This industry-changing product, the Pathport, won an award for best new product at the industry trade show, Lighting Dimensions International.
 
 2002 May — Co-op work experience
 --------------------------------
@@ -68,7 +61,7 @@ Maintain open-source bioinformatics software packages for Homebrew and Linuxbrew
 Selected Publications
 =====================
 
-A selection of 12 of 29 peer-reviewed publications, h-index of 20, and over 6,000 citations
+A selection of 12 of 29 peer-reviewed publications, h-index of 20, and over 7,000 citations
 
 ### ABySS 2.0: Resource-efficient assembly of large genomes using a Bloom filter
 **Jackman SD**, Vandervalk BP, Mohamadi H, Chu J, Yeo S, Hammond SA, Jahesh G, Khan H, Coombe L, Warren RL, et al.
@@ -159,7 +152,7 @@ Awards
 University of British Columbia
 ------------------------------
 
-* 2013-present Natural Sciences and Engineering Research Council of Canada (NSERC)
+* 2013-2018 Natural Sciences and Engineering Research Council of Canada (NSERC)
   Canada Graduate Scholarship (CGS-M and CGS-D)
 * 2012–2013 CIHR/MSFHR Strategic Training Program in Bioinformatics
 
