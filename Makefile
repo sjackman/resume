@@ -1,33 +1,19 @@
-GROFF=groff -M. -mresume -rS12
-
-all: README.html ShaunJackman.html ShaunJackman.pdf
+all: ShaunJackman.pdf publications.html
 
 clean:
-	rm -f ShaunJackman.html ShaunJackman.pdf ShaunJackman.ps
+	rm -f ShaunJackman.pdf publications.html
 
 .DELETE_ON_ERROR:
 .SECONDARY:
 .PHONY: all clean
 
+# Render the resume in PDF format.
+ShaunJackman.pdf: README.md
+	pandoc -Vfontsize:12pt -Vgeometry:margin=1in -o $@ $<
+
 # Download the citation style language (CSL).
 publications.csl:
 	curl -o $@ https://www.zotero.org/styles/genome-research
-
-# Convert Markdown to HTML.
-%.html: %.md publications.bib publications.csl
-	pandoc -s -o $@ $<
-
-# Convert TROFF to HTML.
-%.html: %.tr
-	$(GROFF) -Thtml $< >$@
-
-# Convert TROFF to Postscript.
-%.ps: %.tr
-	$(GROFF) -Tps $< >$@
-
-# Convert Postscript to PDF.
-%.pdf: %.ps
-	pstopdf $< $@
 
 # Download the publications from NCBI PubMed.
 # Warning: returns an incomplete list. Use the web interface:
