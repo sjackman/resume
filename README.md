@@ -1,11 +1,3 @@
-Shaun Jackman
-=============
-
-PhD Candidate Bioinformatics, BASc (First Class Hons.) Computer Engineering
-
-Background
-==========
-
 I am a PhD candidate in bioinformatics, a first class honours graduate in computer engineering, a computer and electronics enthusiast, an open-source software developer and advocate, an avid traveller, a hiker, a singer, and an experimental cook. I have fifteen years of industry and academic experience developing software in C++ and a variety of scripting languages, including nine years developing high-performance distributed and parallel algorithms for genome sequence assembly, and six years developing embedded and real-time control systems. I have extensive experience developing portable software for POSIX systems such as Linux and macOS. When developing performance-critical software, I understand the hardware from the transistor up.
 
 Education
