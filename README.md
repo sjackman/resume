@@ -40,12 +40,17 @@ Maintain open-source bioinformatics software packages for Homebrew and Linuxbrew
 
 ## Selected Publications
 
-A selection of 12 of 29 peer-reviewed publications, h-index of 20, and over 7,000 citations
+A selection of 12 of 30 peer-reviewed publications, h-index of 21, and over 7,000 citations
+
+#### Tigmint: Correcting assembly errors using linked reads from large molecules
+Jackman SD, Coombe L, Chu J, *et al.*
+(2018)
+*BMC Bioinformatics*
 
 #### ABySS 2.0: Resource-efficient assembly of large genomes using a Bloom filter
 **Jackman SD**, Vandervalk BP, Mohamadi H, Chu J, Yeo S, Hammond SA, Jahesh G, Khan H, Coombe L, Warren RL, et al.
 (2017)
-**Genome Research**
+*Genome Research*
 
 #### Organellar Genomes of White Spruce (*Picea glauca*): Assembly and Annotation
 **Jackman SD**, Warren RL, Gibb EA, Vandervalk BP, Mohamadi H, Chu J, Raymond A, Pleasance S, Coope R, Wildung MR, et al.
@@ -67,15 +72,10 @@ I Birol, A Raymond, **SD Jackman**, et al.
 (2013)
 _Bioinformatics_
 
-#### Draft genome of the mountain pine beetle, Dendroctonus ponderosae Hopkins
+#### Draft genome of the mountain pine beetle, *Dendroctonus ponderosae* Hopkins
 CI Keeling, MM Yuen, NY Liao, TR Docking, SK Chan, GA Taylor, DL Palmquist, **SD Jackman**, et al.
 (2013)
 _Genome Biology_
-
-#### The genome and transcriptome of the pine saprophyte Ophiostoma piceae
-S Haridas, Y Wang, L Lim, SM Alamouti, **SD Jackman**, et al.
-(2013)
-_BMC Genomics_
 
 #### De novo assembly and analysis of RNA-seq data
 G Robertson, J Schein, R Chiu, R Corbett, M Field, **SD Jackman** et al.
