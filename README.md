@@ -1,8 +1,8 @@
-I am a PhD candidate in bioinformatics, a first class honours graduate in computer engineering, a computer and electronics enthusiast, an open-source software developer and advocate, an avid traveller, a hiker, a singer, and an experimental cook. I have fifteen years of industry and academic experience developing software in C++ and a variety of scripting languages, including nine years developing high-performance distributed and parallel algorithms for genome sequence assembly, and six years developing embedded and real-time control systems. I have extensive experience developing portable software for POSIX systems such as Linux and macOS. When developing performance-critical software, I understand the hardware from the transistor up.
+I am a PhD candidate in bioinformatics, a first class honours graduate in computer engineering, a computer and electronics enthusiast, an open-source software developer and advocate, an avid traveller, a hiker, a singer, and an experimental cook. I have sixteen years of industry and academic experience developing software in C++, Python, and R, including ten years developing high-performance distributed and parallel algorithms for genome sequence assembly, and six years developing embedded and real-time control systems. I have extensive experience developing portable software for POSIX systems such as Linux and macOS. When developing performance-critical software, I understand the hardware from the transistor up.
 
 ## Education
 
-#### 2012–present—Bioinformatics PhD Candidate—University of British Columbia
+#### 2012–2019—PhD Bioinformatics—University of British Columbia
 
 NSERC CGS-M and CGS-D scholarship student in bioinformatics. Coursework
 in bioinformatics, statistics, machine learning, and genetics.
