@@ -36,7 +36,7 @@ power control system using the QNX real-time operating system.
 
 #### 2002–present—Open-source developer
 
-Maintain open-source bioinformatics software packages for Homebrew and Linuxbrew. Lead developer of Linuxbrew, the Homebrew package manager for Linux.
+Developer and member of the project leadership committee of Homebrew, the package manager for macOS and Linux. Leader maintainer and creator of Homebrew for Linux.
 
 ## Selected Publications
 
