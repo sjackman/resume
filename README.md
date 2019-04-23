@@ -10,7 +10,7 @@ GPA 4.26 (93%)
 
 #### 1998–2004—BASc Computer Engineering—Simon Fraser University
 
-First class honours cholarship student in computer engineering. Completed an honours undergraduate thesis and two full years of co-op work experience at
+First class honours scholarship student in computer engineering. Completed an honours undergraduate thesis and two full years of co-op work experience at
 three companies. GPA 3.85
 
 ## Work Experience
