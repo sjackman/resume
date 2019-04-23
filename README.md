@@ -40,10 +40,15 @@ Developer and member of the project leadership committee of Homebrew, the packag
 
 ## Selected Publications
 
-A selection of 12 of 30 peer-reviewed publications, h-index of 21, and over 7,000 citations
+A selection from over 30 peer-reviewed publications, h-index of 21, and over 8,000 citations
+
+#### ORCA: A Comprehensive Bioinformatics Container Environment for Education and Research 
+**Jackman SD, Mozgacheva T, Chen S, *et al.*
+(2019)
+*Bioinformatics*
 
 #### Tigmint: Correcting assembly errors using linked reads from large molecules
-Jackman SD, Coombe L, Chu J, *et al.*
+**Jackman SD**, Coombe L, Chu J, *et al.*
 (2018)
 *BMC Bioinformatics*
 
