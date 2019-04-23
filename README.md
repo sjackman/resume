@@ -36,7 +36,7 @@ power control system using the QNX real-time operating system.
 
 #### 2002–present—Open-source developer
 
-Developer and member of the project leadership committee of Homebrew, the package manager for macOS and Linux. Leader maintainer and creator of Homebrew for Linux.
+Developer and member of the project leadership committee of Homebrew, the package manager for macOS and Linux. Leader maintainer and creator of Homebrew for Linux, which has over fifteen thousand users.
 
 ## Selected Publications
 
