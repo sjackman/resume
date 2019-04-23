@@ -43,67 +43,67 @@ Developer and member of the project leadership committee of Homebrew, the packag
 A selection from over 30 peer-reviewed publications, h-index of 21, and over 8,000 citations
 
 #### ORCA: A Comprehensive Bioinformatics Container Environment for Education and Research 
-**Jackman SD, Mozgacheva T, Chen S, *et al.*
+**SD Jackman**, T Mozgacheva, S Chen, *et al.*
 (2019)
 *Bioinformatics*
 
 #### Tigmint: Correcting assembly errors using linked reads from large molecules
-**Jackman SD**, Coombe L, Chu J, *et al.*
+**SD Jackman**, L Coombe, J Chu, *et al.*
 (2018)
 *BMC Bioinformatics*
 
 #### ABySS 2.0: Resource-efficient assembly of large genomes using a Bloom filter
-**Jackman SD**, Vandervalk BP, Mohamadi H, Chu J, Yeo S, Hammond SA, Jahesh G, Khan H, Coombe L, Warren RL, et al.
+**SD Jackman**, BP Vandervalk, H Mohamadi, J Chu, S Yeo, SA HammondA, G Jahesh, H Khan, L Coombe, RL Warren, *et al.*
 (2017)
 *Genome Research*
 
 #### Organellar Genomes of White Spruce (*Picea glauca*): Assembly and Annotation
-**Jackman SD**, Warren RL, Gibb EA, Vandervalk BP, Mohamadi H, Chu J, Raymond A, Pleasance S, Coope R, Wildung MR, et al.
+**SD Jackman**, RL Warren, EA Gibb, BP Vandervalk, H Mohamadi, J Chu, A Raymond, S Pleasance, R Coope, MR Wildung, *et al.*
 (2015)
 *Genome Biology and Evolution*
 
 #### Improved white spruce (*Picea glauca*) genome assemblies and annotation of large gene families of conifer terpenoid and phenolic defense metabolism
-Warren RL, Keeling CI, Yuen MMS, Raymond A, Taylor GA, Vandervalk BP, Mohamadi H, Paulino D, Chiu R, **Jackman SD**, et al.
+RL Warren, CI Keeling, MMS Yuen, A Raymond, GA Taylor, BP Vandervalk, H Mohamadi, D Paulino, R Chiu, **SD Jackman**, *et al.*
 (2015)
 *The Plant Journal*
 
 #### UniqTag: Content-Derived Unique and Stable Identifiers for Gene Annotation
-**Jackman SD**, Bohlmann J, Birol İ.
+**SD Jackman**, J Bohlmann, I Birol.
 (2015)
 *PLOS ONE*
 
 #### Assembling the 20 Gb white spruce (*Picea glauca*) genome from WGSS data
-I Birol, A Raymond, **SD Jackman**, et al.
+I Birol, A Raymond, **SD Jackman**, *et al.*
 (2013)
 _Bioinformatics_
 
 #### Draft genome of the mountain pine beetle, *Dendroctonus ponderosae* Hopkins
-CI Keeling, MM Yuen, NY Liao, TR Docking, SK Chan, GA Taylor, DL Palmquist, **SD Jackman**, et al.
+CI Keeling, MM Yuen, NY Liao, TR Docking, SK Chan, GA Taylor, DL Palmquist, **SD Jackman**, *et al.*
 (2013)
 _Genome Biology_
 
 #### De novo assembly and analysis of RNA-seq data
-G Robertson, J Schein, R Chiu, R Corbett, M Field, **SD Jackman** et al.
+G Robertson, J Schein, R Chiu, R Corbett, M Field, **SD Jackman** *et al.*
 (2010)
 _Nature Methods_
 
 #### Assembling genomes using short-read sequencing technology
-**SD Jackman** and I Birol
+**SD Jackman**, I Birol
 (2010)
 _Genome Biology_
 
 #### De novo transcriptome assembly with ABySS
-I Birol, **SD Jackman**, CB Nielsen et al.
+I Birol, **SD Jackman**, CB Nielsen *et al.*
 (2009)
 _Bioinformatics_
 
 #### ABySS-Explorer: visualizing genome sequence assemblies
-CB Nielsen, **SD Jackman**, I Birol et al.
+CB Nielsen, **SD Jackman**, I Birol *et al.*
 (2009)
 _IEEE Transactions on Visualization and Computer Graphics_
 
 #### ABySS: a parallel assembler for short read sequence data
-JT Simpson, K Wong, **SD Jackman** et al.
+JT Simpson, K Wong, **SD Jackman** *et al.*
 (2009)
 _Genome Research_
 
