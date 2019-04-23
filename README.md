@@ -4,23 +4,17 @@ I am a PhD candidate in bioinformatics, a first class honours graduate in comput
 
 #### 2012–2019—PhD Bioinformatics—University of British Columbia
 
-NSERC CGS-M and CGS-D scholarship student in bioinformatics. Coursework
-in bioinformatics, statistics, machine learning, and genetics.
-GPA 4.26 (93%)
+NSERC CGS-M and CGS-D scholarship student in bioinformatics. Coursework in bioinformatics, statistics, machine learning, and genetics. GPA 4.26 (93%)
 
 #### 1998–2004—BASc Computer Engineering—Simon Fraser University
 
-First class honours scholarship student in computer engineering. Completed an honours undergraduate thesis and two full years of co-op work experience at
-three companies. GPA 3.85
+First class honours scholarship student in computer engineering. Completed an honours undergraduate thesis and two full years of co-op work experience at three companies. GPA 3.85 
 
 ## Work Experience
 
 #### 2008–2012—Computational biologist—BC Cancer Genome Sciences Centre
 
-Developed the genome sequence assembly software package, ABySS. This
-heavily parallel and distributed software system, which uses both MPI
-and OpenMP for parallel computation, was the first system to assemble
-a human genome using short-read sequencing technology.
+Developed the genome sequence assembly software package, ABySS. This heavily parallel and distributed software system, which uses both MPI and OpenMP for parallel computation, was the first system to assemble a human genome using short-read sequencing technology.
 
 #### 2004–2007—Embedded firmware developer—Pathway Connectivity Inc.
 
@@ -28,9 +22,7 @@ Developed the firmware for Pathway's product line of small, low-cost lighting co
 
 #### 2002 May—Co-op work experience—Vortek Industries Ltd.
 
-Worked on the rapid thermal processing tool used in the manufacturing
-of semiconductor devices. Developed the temperature sensor and lamp
-power control system using the QNX real-time operating system.
+Worked on the rapid thermal processing tool used in the manufacturing of semiconductor devices. Developed the temperature sensor and lamp power control system using the QNX real-time operating system.
 
 ## Volunteer Experience
 
