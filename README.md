@@ -42,16 +42,9 @@ OpenMP, MPI, and POSIX threads.
 
 ## Awards
 
-#### University of British Columbia
-
 * 2013-2018 Natural Sciences and Engineering Research Council of Canada (NSERC)
   Canada Graduate Scholarship (CGS-M and CGS-D)
 * 2012–2013 CIHR/MSFHR Strategic Training Program in Bioinformatics
-
-#### Simon Fraser University
-
-* 1999–2004 Open Undergraduate Scholarship
-* 1998–1999 Tadeusz Specht Memorial Entrance Scholarship in Science
 
 ## Selected Publications
 
