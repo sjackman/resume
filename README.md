@@ -8,17 +8,17 @@ NSERC CGS-M and CGS-D scholarship student in bioinformatics. Coursework in bioin
 
 #### 1998–2004—BASc Computer Engineering—Simon Fraser University
 
-First class honours scholarship student in computer engineering. Completed an honours undergraduate thesis and two full years of co-op work experience at three companies. GPA 3.85 
+First class honours scholarship student in computer engineering. Completed an honours undergraduate thesis and two years of co-op work experience at three companies. GPA 3.85
 
 ## Work Experience
 
 #### 2008–2012—Computational biologist—BC Cancer Genome Sciences Centre
 
-Developed the genome sequence assembly software package, ABySS. This heavily parallel and distributed software system, which uses both MPI and OpenMP for parallel computation, was the first system to assemble a human genome using short-read sequencing technology.
+Developed the genome sequence assembly software package, ABySS, implemented in C++. This heavily parallel and distributed software system, which uses both MPI and OpenMP for parallel computation, was the first system to assemble a human genome using short-read sequencing technology.
 
 #### 2004–2007—Embedded firmware developer—Pathway Connectivity Inc.
 
-Developed the firmware for Pathway's product line of small, low-cost lighting control devices. These small devices, which use Atmel's AVR and ARM microcontrollers, convert between a variety of lighting-control protocols. Modernized the lighting control industry in developing a device to adapt legacy lighting control equipment to Ethernet. This industry-changing product, the Pathport, won an award for best new product at the industry trade show, Lighting Dimensions International.
+Developed the firmware for Pathway's product line of lighting control devices. These devices, which use Atmel's AVR and ARM microcontrollers, convert between a variety of lighting-control protocols. Modernized the lighting control industry in developing a device, the Pathport, to adapt legacy serial equipment to an Ethernet network. This device won an award for best new product at the industry trade show, Lighting Dimensions International.
 
 #### 2002 May—Co-op work experience—Vortek Industries Ltd.
 
@@ -28,17 +28,17 @@ Worked on the rapid thermal processing tool used in the manufacturing of semicon
 
 #### 2002–present—Open-source developer
 
-Developer and member of the project leadership committee of Homebrew, the package manager for macOS and Linux. Leader maintainer and creator of Homebrew for Linux, which has over fifteen thousand users.
+Developer and leadership committee member of Homebrew, the package manager for macOS and Linux. Leader maintainer and creator of Homebrew for Linux, which has over fifteen thousand users.
 
-## Knowledge
+## Expertise
 
-#### Bioinformatics
+#### Bioinformatics and genomics
 
-Techniques for analysis of whole-genome shotgun sequencing and RNA-seq, including *de novo* sequence assembly, sequence alignment, variant calling, genome annotation, and visualization and inspection of genome assemblies, variants, and rearrangements.
+Techniques for analysis of whole-genome shotgun sequencing and RNA-seq, including genome sequence assembly, sequence alignment, variant calling, genome annotation, and visualization and inspection of genome assemblies, variants, and rearrangements.
 
 #### Programming languages
 
-C++, C, R, Python, Ruby, shell, and assembly.
+C++, C, Python, R, Ruby, shell, and assembly.
 
 #### Parallel processing
 
@@ -65,7 +65,7 @@ macOS, Debian, Ubuntu, and other GNU/Linux distributions.
 
 A selection from over 30 peer-reviewed publications, h-index of 21, and over 8,000 citations
 
-#### ORCA: A Comprehensive Bioinformatics Container Environment for Education and Research 
+#### ORCA: A Comprehensive Bioinformatics Container Environment for Education and Research
 **SD Jackman**, T Mozgacheva, S Chen, *et al.*
 (2019)
 *Bioinformatics*
