@@ -4,7 +4,7 @@ I am a PhD candidate in bioinformatics, a first class honours graduate in comput
 
 #### 2012–2019—PhD Bioinformatics—University of British Columbia
 
-NSERC CGS-M and CGS-D scholarship student in bioinformatics. Coursework in bioinformatics, statistics, machine learning, and genetics. GPA 4.26 (93%)
+NSERC Canada Graduate Scholarship (CGS) student in bioinformatics. Coursework in bioinformatics, statistics, machine learning, and genetics. GPA 4.26 (93%)
 
 #### 1998–2004—BASc Computer Engineering—Simon Fraser University
 
@@ -39,12 +39,6 @@ C++, C, Python, R, Ruby, shell, and assembly.
 #### Parallel processing
 
 OpenMP, MPI, and POSIX threads.
-
-## Awards
-
-* 2013-2018 Natural Sciences and Engineering Research Council of Canada (NSERC)
-  Canada Graduate Scholarship (CGS-M and CGS-D)
-* 2012–2013 CIHR/MSFHR Strategic Training Program in Bioinformatics
 
 ## Selected Publications
 
