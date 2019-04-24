@@ -30,6 +30,37 @@ Worked on the rapid thermal processing tool used in the manufacturing of semicon
 
 Developer and member of the project leadership committee of Homebrew, the package manager for macOS and Linux. Leader maintainer and creator of Homebrew for Linux, which has over fifteen thousand users.
 
+## Knowledge
+
+#### Bioinformatics
+
+Techniques for analysis of whole-genome shotgun sequencing and RNA-seq, including *de novo* sequence assembly, sequence alignment, variant calling, genome annotation, and visualization and inspection of genome assemblies, variants, and rearrangements.
+
+#### Programming languages
+
+C++, C, R, Python, Ruby, shell, and assembly.
+
+#### Parallel processing
+
+OpenMP, MPI, and POSIX threads.
+
+#### Operating systems
+
+macOS, Debian, Ubuntu, and other GNU/Linux distributions.
+
+## Awards
+
+#### University of British Columbia
+
+* 2013-2018 Natural Sciences and Engineering Research Council of Canada (NSERC)
+  Canada Graduate Scholarship (CGS-M and CGS-D)
+* 2012–2013 CIHR/MSFHR Strategic Training Program in Bioinformatics
+
+#### Simon Fraser University
+
+* 1999–2004 Open Undergraduate Scholarship
+* 1998–1999 Tadeusz Specht Memorial Entrance Scholarship in Science
+
 ## Selected Publications
 
 A selection from over 30 peer-reviewed publications, h-index of 21, and over 8,000 citations
@@ -98,34 +129,3 @@ _IEEE Transactions on Visualization and Computer Graphics_
 JT Simpson, K Wong, **SD Jackman** *et al.*
 (2009)
 _Genome Research_
-
-## Knowledge
-
-#### Bioinformatics
-
-Techniques for analysis of whole-genome shotgun sequencing and RNA-seq, including *de novo* sequence assembly, sequence alignment, variant calling, genome annotation, and visualization and inspection of genome assemblies, variants, and rearrangements.
-
-#### Programming languages
-
-C++, C, R, Python, Ruby, shell, and assembly.
-
-#### Parallel processing
-
-OpenMP, MPI, and POSIX threads.
-
-#### Operating systems
-
-macOS, Debian, Ubuntu, and other GNU/Linux distributions.
-
-## Awards
-
-#### University of British Columbia
-
-* 2013-2018 Natural Sciences and Engineering Research Council of Canada (NSERC)
-  Canada Graduate Scholarship (CGS-M and CGS-D)
-* 2012–2013 CIHR/MSFHR Strategic Training Program in Bioinformatics
-
-#### Simon Fraser University
-
-* 1999–2004 Open Undergraduate Scholarship
-* 1998–1999 Tadeusz Specht Memorial Entrance Scholarship in Science
