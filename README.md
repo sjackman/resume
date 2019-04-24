@@ -20,10 +20,6 @@ Developed the genome sequence assembly software package, ABySS, implemented in C
 
 Developed the firmware for Pathway's product line of lighting control devices. These devices, which use Atmel's AVR and ARM microcontrollers, convert between a variety of lighting-control protocols. Modernized the lighting control industry in developing a device, the Pathport, to adapt legacy serial equipment to an Ethernet network. This device won an award for best new product at the industry trade show, Lighting Dimensions International.
 
-#### 2002 May—Co-op work experience—Vortek Industries Ltd.
-
-Worked on the rapid thermal processing tool used in the manufacturing of semiconductor devices. Developed the temperature sensor and lamp power control system using the QNX real-time operating system.
-
 ## Volunteer Experience
 
 #### 2002–present—Open-source developer
