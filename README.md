@@ -40,10 +40,6 @@ C++, C, Python, R, Ruby, shell, and assembly.
 
 OpenMP, MPI, and POSIX threads.
 
-#### Operating systems
-
-macOS, Debian, Ubuntu, and other GNU/Linux distributions.
-
 ## Awards
 
 #### University of British Columbia
