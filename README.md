@@ -16,7 +16,7 @@ First class honours scholarship student in computer engineering. Completed an ho
 
 Developed the genome sequence assembly software package, ABySS, implemented in C++. This heavily parallel and distributed software system, which uses both MPI and OpenMP for parallel computation, was the first system to assemble a human genome using short-read sequencing technology.
 
-#### 2004–2007—Embedded firmware developer—Pathway Connectivity Inc.
+#### 2004–2007—Embedded firmware developer—Pathway Connectivity
 
 Developed the firmware for Pathway's product line of lighting control devices. These devices, which use Atmel's AVR and ARM microcontrollers, convert between a variety of lighting-control protocols. Modernized the lighting control industry in developing a device, the Pathport, to adapt legacy serial equipment to an Ethernet network. This device won an award for best new product at the industry trade show, Lighting Dimensions International.
 
