@@ -8,8 +8,8 @@ clean:
 .PHONY: all clean
 
 # Render the resume in PDF format.
-ShaunJackman.pdf: README.md
-	pandoc -Vfontsize:12pt -Vgeometry:margin=1in -o $@ $<
+ShaunJackman.pdf: frontmatter.md README.md
+	pandoc -o $@ $^
 
 # Download the citation style language (CSL).
 publications.csl:
