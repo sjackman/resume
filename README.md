@@ -32,13 +32,25 @@ Developer and leadership committee member of Homebrew, the package manager for m
 
 Techniques for analysis of whole-genome shotgun sequencing and RNA-seq, including genome sequence assembly, sequence alignment, variant calling, genome annotation, and visualization and inspection of genome assemblies, variants, and rearrangements.
 
-#### Programming languages
+#### Programming Languages
 
-C++, C, Python, R, Ruby, shell, and assembly.
+C++, C, Python, R, Ruby, shell, and assembly
 
-#### Parallel processing
+#### Parallel Processing
 
-OpenMP, MPI, and POSIX threads.
+OpenMP, MPI, and POSIX threads
+
+#### Continuous Integration
+
+CircleCI, Travis CI, Azure Pipelines, GitHub Actions
+
+#### Cloud and Containerization
+
+AWS, Docker, and Singularity
+
+#### Version Control
+
+Git and GitHub wizard
 
 ## Selected Publications
 
