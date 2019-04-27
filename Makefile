@@ -8,7 +8,7 @@ clean:
 .PHONY: all clean
 
 # Render the resume in PDF format.
-ShaunJackman.pdf: frontmatter.md README.md
+ShaunJackman.pdf: frontmatter.md ShaunJackman.md
 	pandoc -o $@ $^
 
 # Download the citation style language (CSL).
