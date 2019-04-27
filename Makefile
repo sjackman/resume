@@ -23,24 +23,27 @@ publications.csl:
 
 # Convert PubMed CSV to a list of DOI.
 %.doi: %.csv
-	gsed -nr 's/.*doi: ([^ "]*)\..*/\1/p' $< | sort -u >$@
+	sed -nE 's/.*doi: ([^ "]*)\..*/\1/p' $< | sort -u >$@
 
 # Convert a list of DOI to Bibtex entries.
 %.bib.orig: %.doi
-	while read i; do echo $$i >&2; curl -sLH "Accept: text/bibliography; style=bibtex" "https://dx.doi.org/$$i"; done <$< | sed 's/^ *//' >$@
+	while read i; do echo $$i >&2; curl -sLH "Accept: text/bibliography; style=bibtex" "https://doi.org/$$i"; done <$< | sed 's/^ *//' >$@
 
 # Rename duplicate entries and remove incorrect ones.
 %.bib: %.bib.orig
-	sed 's/Jackman_2015, title={Organellar/Jackman_2015_Organellar, title={Organellar/' $< \
-	| sed 's/Jackman_2015, title={UniqTag/Jackman_2015_UniqTag, title={UniqTag/' \
-	| sed 's/title={/title={{/;s/}/}}/' \
-	| grep -v 'Jackman, Sarah D' >$@
+	grep -v 'Jackman, Sarah D' $< \
+	| sed -E \
+		-e 's/Jackman_2015, title={Organellar/Jackman_2015_Organellar, title={Organellar/' \
+		-e 's/Jackman_2015, title={UniqTag/Jackman_2015_UniqTag, title={UniqTag/' \
+		-e 's/title={([^}]*)},/title={{\1}},/' \
+		-e 's~http://dx.doi.org~https://doi.org~' \
+	| sort -t_ -k2,2nr -k1,1 >$@
 
 # Convert Bibtext to Markdown.
 %.md: %.bib
-	gsed -r 's/^@article\{([^,]*),.*/@\1/' $< | awk '{print NR ". " $$0}' >$@
+	sed -E 's/^@article\{([^,]*),.*/@\1/' $< | awk '{print NR ". " $$0}' >$@
 
 # Convert Markdown to HTML.
 publications.html: %.html: %.md publications.bib publications.csl
-	pandoc -s --bibliography=publications.bib --csl=publications.csl $< \
-	| gsed -r 's/Jackman SD?/<strong>&<\/strong>/' > $@
+	pandoc -s --metadata=title=Publications --bibliography=publications.bib --csl=publications.csl $< \
+	| sed -E 's/Jackman SD?/<strong>&<\/strong>/' > $@
