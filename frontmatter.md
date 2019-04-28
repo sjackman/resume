@@ -5,5 +5,9 @@ subtitle: |
   sjackman@gmail.com &bull; +1-778-235-0342 &bull; https://sjackman.ca
 fontsize: "12pt"
 geometry: "margin=1in"
-include-before: "\\vspace{-60pt}"
+include-before: |
+  \vspace{-60pt}
+header-includes: |
+  \usepackage{titlesec}
+  \titlespacing{\paragraph}{0pt}{0pt}{1em}
 ---
