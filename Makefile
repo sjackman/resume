@@ -7,6 +7,10 @@ clean:
 .SECONDARY:
 .PHONY: all clean
 
+# Format the resume for print.
+ShaunJackman.md: README.md
+	sed -E 's/^([^#].*)/> &/' $< >$@
+
 # Render the resume in PDF format.
 ShaunJackman.pdf: frontmatter.md ShaunJackman.md
 	pandoc -o $@ $^
