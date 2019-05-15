@@ -24,19 +24,23 @@ I am a PhD graduate in bioinformatics, a first class honours graduate in compute
 
 #### Bioinformatics and Genomics
 
-> Analysis of whole-genome shotgun sequencing and RNA-seq, including genome sequence assembly, sequence alignment, variant calling, genome annotation, and visualization and inspection of genome assemblies, variants, and rearrangements. Developed ABySS 2.0 to assemble twenty gigabase conifer genomes, seven times the size of human.
+> Analysis of DNA and RNA sequencing, including genome sequence assembly, sequence alignment, variant calling, genome annotation, visualization, and inspection of genome assemblies, variants, and rearrangements. Developed ABySS 2.0 to assemble twenty gigabase conifer genomes, seven times the size of human.
 
 #### Data Analysis Pipelines
 
 > Extensive experience in constructing data analysis workflows, visualization, reporting, and communicating results effectively with aesthetic appeal.
 
-#### Project Management
+#### Problem Solving and Leadership
 
-> A practiced talent to decompose complex problems into well-defined components, enabling concurrent development by a team. Daily involvement in reviewing code to provide constructive criticism with empathy, to improve both the developer's skills as well as code quality. Use of automated unit and integration testing to ensure correctness and provide timely automated feedback on code quality to developers.
+> A practiced talent to decompose complex problems into well-defined components, enabling concurrent development by a team. Daily involvement in reviewing code to provide constructive criticism with empathy, to improve both the developer's skills as well as code quality. Use of automated testing to ensure correctness and provide timely automated feedback on code quality to developers.
 
 #### Open-source Developer
 
 > Developer and member of the project leadership committee of Homebrew, the package manager for macOS and Linux. Created Homebrew for Linux, and grew its community of over fifteen thousand users.
+
+#### Sequencing Technologies and Genomic Assays
+
+> Illumina HiSeq, Oxford Nanopore, 10x Genomics Chromium, Bionano Genomics
 
 #### Programming Languages
 
