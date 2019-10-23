@@ -12,5 +12,6 @@ header-includes: |
   \usepackage{titlesec}
   \titlespacing{\paragraph}{0pt}{0pt}{1em}
   \pagestyle{fancy}
+  \fancyhead[L]{}
   \fancyhead[C]{Shaun Jackman\textbullet sjackman@gmail.com\textbullet +1-778-235-0342\textbullet https://sjackman.ca}
 ---
