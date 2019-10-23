@@ -1,7 +1,7 @@
 ---
 title: "\\vspace{-1in}Shaun Jackman"
 subtitle: |
-  PhD Bioinformatics, BASc Computer Engingeering \
+  PhD Bioinformatics, BASc Computer Engineering \
   sjackman@gmail.com &bull; +1-778-235-0342 &bull; https://sjackman.ca
 fontsize: "12pt"
 geometry: "margin=1in"
