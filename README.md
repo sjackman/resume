@@ -2,6 +2,10 @@ I am a PhD graduate in bioinformatics, a first class honours graduate in compute
 
 ## Education and Employment
 
+#### 2019–present—Senior Computational Biologist—10x Genomics
+
+Developed algorithms for the flagship single-cell gene expression software tool, Cell Ranger, which is implemented in Rust and Python.
+
 #### 2012–2019—PhD Bioinformatics—University of British Columbia
 
 NSERC Canada Graduate Scholarship (CGS) student in bioinformatics. Published five papers as the first author. The memory-efficient genome sequence assembly tool ABySS 2.0 (2017) has received over 100 citations. Coursework in bioinformatics, statistics, machine learning, and genetics. GPA 4.26 (93%)
@@ -38,11 +42,11 @@ Developer and member of the project leadership committee of Homebrew, the packag
 
 #### Sequencing Technologies and Genomic Assays
 
-Illumina HiSeq, Oxford Nanopore, 10x Genomics Chromium, Bionano Genomics
+10x Genomics Chromium, Illumina HiSeq, Oxford Nanopore, Bionano Genomics
 
 #### Programming Languages
 
-C++, C, Python, R, Ruby, shell, and assembly
+Rust, C++, C, Python, R, Ruby, shell, and assembly
 
 #### Programming Methodologies
 
