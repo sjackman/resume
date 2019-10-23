@@ -1,5 +1,8 @@
 all: ShaunJackman.pdf publications.html
 
+install-deps:
+	tlmgr install titlesec
+
 clean:
 	rm -f ShaunJackman.pdf publications.html
 
