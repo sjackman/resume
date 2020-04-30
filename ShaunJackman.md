@@ -1,4 +1,4 @@
-I am a PhD graduate in bioinformatics, a first class honours graduate in computer engineering, an open-source software developer, an avid traveller, a singer, and an enthusiastic cook. I have sixteen years of industry and academic experience developing software in C++, Python, and R, including ten years developing high-performance parallel algorithms for genome sequence assembly, and six years developing embedded and real-time control systems. I developed ABySS 1.0, the first software tool to assemble a human genome from Illumina sequencing, as well as ABySS 2.0, the first assembler to reconstruct a twenty-gigabase conifer genome, seven times the size of the human genome.
+I am a PhD graduate in bioinformatics, a first class honours graduate in computer engineering, an open-source software developer, an avid traveller, a singer, and an enthusiastic cook. I have sixteen years of industry and academic experience developing software in C++, Python, and R, including ten years developing high-performance parallel algorithms for genome sequence assembly, and six years developing embedded and real-time control systems. I developed ABySS 1.0, the first software tool to assemble a human genome from Illumina sequencing, as well as ABySS 2.0, the first assembler to reconstruct a twenty-gigabase conifer genome, seven times the size of the human genome. I enjoy camping, cycling, swing dancing, theatre, and cooking and sharing good food with friends, and I sing tenor with the internationally recognized Chor Leoni Men's Choir.
 
 ## Education and Employment
 
@@ -22,8 +22,6 @@ I am a PhD graduate in bioinformatics, a first class honours graduate in compute
 
 > First class honours scholarship student in computer engineering. Completed an honours undergraduate thesis and two years of co-op work experience at three companies. GPA 3.85
 
-\newpage
-
 ## Expertise
 
 #### Bioinformatics and Genomics
@@ -40,7 +38,7 @@ I am a PhD graduate in bioinformatics, a first class honours graduate in compute
 
 #### Open-source Developer
 
-> Developer and member of the project leadership committee of Homebrew, the package manager for macOS and Linux. Created Homebrew for Linux, and grew its community of over fifteen thousand users.
+> Developer and member of the project leadership committee of Homebrew, the package manager for macOS and Linux. Created Homebrew for Linux, and grew its community of fifty thousand users.
 
 #### Sequencing Technologies and Genomic Assays
 
