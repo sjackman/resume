@@ -38,7 +38,7 @@ A practiced talent to decompose complex problems into well-defined components, e
 
 #### Open-source Developer
 
-Developer and member of the project leadership committee of Homebrew, the package manager for macOS and Linux. Created Homebrew for Linux, and grew its community of over fifteen thousand users.
+Developer and member of the project leadership committee of Homebrew, the package manager for macOS and Linux. Created Homebrew for Linux, and grew its community of fifty thousand users.
 
 #### Sequencing Technologies and Genomic Assays
 
